@@ -8,4 +8,4 @@
 
 #Barang/benda yang tercantum di portofolio : Madu (Murni)
 
-#Nama Brand : YASMINA
+#Nama Brand : YASMINA HONEY
